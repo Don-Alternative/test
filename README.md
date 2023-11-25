@@ -19,7 +19,7 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 ## Table of Contents
 
 
-# translations
+# Translations
 
 
 14124142
@@ -38,5 +38,5 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 
 141412
 
-[Translations](#Translations)
+[Translations](#translations)
 
